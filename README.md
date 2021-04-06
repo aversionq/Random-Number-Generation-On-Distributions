@@ -1,4 +1,4 @@
-# Random-normally-distributed-numbers-generator
+# Random normally distributed numbers generator
 This program generates random normally distributed numbers (on a Gaussian / Normal distribution). Made WITHOUT any random frameworks.
 
 Read about Gaussian distribution and more here: 
