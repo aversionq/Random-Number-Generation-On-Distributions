@@ -1,0 +1,5 @@
+﻿  Exp dist.cpp
+C:\prog\CODE\C++\Exponential distribution\Exponential distribution\Exp dist.cpp(25,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\prog\CODE\C++\Exponential distribution\Exponential distribution\Exp dist.cpp(36,12): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\prog\CODE\C++\Exponential distribution\Exponential distribution\Exp dist.cpp(39,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Exponential distribution.vcxproj -> C:\prog\CODE\C++\Exponential distribution\Debug\Exponential distribution.exe
